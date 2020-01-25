@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "jest"
   },
   "author": "daku10 <daku.two@gmail.com>",
   "license": "MIT",
@@ -15,8 +16,11 @@
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
+    "@types/jest": "^24.9.1",
     "@types/node": "^13.5.0",
     "@types/react": "^16.9.19",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.0.0",
     "typescript": "^3.7.5"
   }
 }
