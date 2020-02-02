@@ -1,7 +1,8 @@
 import * as React from "react";
-import { storiesOf } from "@storybook/react";
 import { Text } from "./Text";
 
-storiesOf("Text", module).add("text", () => {
-  return <Text text="Hello storybook" />;
-});
+export default {
+  title: "Text"
+};
+
+export const text = () => <Text text="Hello storybook" />;
