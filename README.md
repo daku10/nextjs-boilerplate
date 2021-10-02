@@ -4,11 +4,11 @@ This is boilerplate for Next.js + Typescript + Jest + Storybook + ESLint + Prett
 
 The version of libraries repository used are below.
 
-- Next.js 9.2.1
-- React 16.12.0
-- Typescript 3.7.5
-- Jest 24.9.1
-- Storybook 5.3.9
-- ESLint 6.8.0
-- Prettier 1.19.1
-- styled-components 5.0.0
+- Next.js 11.1.2
+- React 17.0.2
+- Typescript 4.4.3
+- Jest 27.2.4
+- Storybook 6.3.9
+- ESLint 7.32.0
+- Prettier 2.4.1
+- styled-components 5.3.1
