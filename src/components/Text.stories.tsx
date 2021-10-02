@@ -1,7 +1,7 @@
-import { Text } from "./Text";
+import { Text } from './Text'
 
 export default {
-  title: "Text",
-};
+  title: 'Text',
+}
 
-export const text = () => <Text text="Hello storybook" />;
+export const text = () => <Text text="Hello storybook" />

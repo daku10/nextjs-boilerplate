@@ -1,7 +1,7 @@
 type Props = {
-  text: string;
-};
+  text: string
+}
 
-const Text = ({ text }: Props) => <span>{text}</span>;
+const Text = ({ text }: Props) => <span>{text}</span>
 
-export { Text };
+export { Text }
