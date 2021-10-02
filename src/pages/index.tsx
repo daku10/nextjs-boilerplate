@@ -1,4 +1,3 @@
-import * as React from "react";
 import styled from "styled-components";
 
 const Home = () => <H1>Hello world!</H1>;
